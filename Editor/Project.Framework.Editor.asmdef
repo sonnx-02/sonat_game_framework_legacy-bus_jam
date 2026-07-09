@@ -1,0 +1,23 @@
+{
+    "name": "Project.Framework.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:81ac2fd98c2dbac4ab201e50c36fc4ac",
+        "GUID:09ccf3b605e1fab41b0332895e0b320d",
+        "GUID:6055be8ebefd69e48b49212b09b47b2f",
+        "GUID:fad29f06bfa12d14b9ace76300bd6137",
+        "GUID:f7f00acd42b15da438efb3f2618b8357",
+        "GUID:21d1eb854b91ade49bc69a263d12bee2"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

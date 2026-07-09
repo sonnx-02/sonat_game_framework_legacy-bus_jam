@@ -1,0 +1,29 @@
+{
+    "name": "Project.Framework.Code",
+    "rootNamespace": "",
+    "references": [
+        "GUID:fad29f06bfa12d14b9ace76300bd6137",
+        "GUID:09ccf3b605e1fab41b0332895e0b320d",
+        "GUID:68765d262e2128e4ab49c983f3411946",
+        "GUID:6055be8ebefd69e48b49212b09b47b2f",
+        "GUID:ba1cc3a31bd4de04ca3b845ba30971b9",
+        "GUID:72d1fea872bd7a449bf3818f2b0a6708",
+        "GUID:0da6d172d18a54e4389d0dce1e1ffdf2",
+        "GUID:b928b50ce6dca47b5915501f643cb43b",
+        "GUID:1a4c726268b94b145be59b4d478dc5e8",
+        "GUID:d8b63aba1907145bea998dd612889d6b",
+        "GUID:e539678cf69674b418d82e89c16a9753",
+        "GUID:1e113d3b5d77bc04eab508251483e8ff",
+        "GUID:4ffe3249bc841464abc6ec7cdd53b4f4",
+        "GUID:21d1eb854b91ade49bc69a263d12bee2"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

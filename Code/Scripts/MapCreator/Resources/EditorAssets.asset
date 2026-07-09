@@ -1,0 +1,92 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 610708593b86b1542ab1f3f058a6d05d, type: 3}
+  m_Name: EditorAssets
+  m_EditorClassIdentifier: 
+  tileSize: {x: 35, y: 35}
+  spacing: {x: 3, y: 3}
+  numberTextures:
+  - {fileID: 2800000, guid: 68530c0bff5e8cb4aabe99103abcc2d8, type: 3}
+  - {fileID: 2800000, guid: b95ff8953ea4e9d40a4f9609dd5eb3a7, type: 3}
+  - {fileID: 2800000, guid: f2385bb5d77385a4891ba23e925c2661, type: 3}
+  - {fileID: 2800000, guid: b6160fabe4ae11246932a8c8b9c599ab, type: 3}
+  - {fileID: 2800000, guid: 05d0cd206b7eb494493113ceb02fda4f, type: 3}
+  - {fileID: 2800000, guid: 48c62a05e7226834287631d18b3ab0e4, type: 3}
+  - {fileID: 2800000, guid: 8817c014654f7e747b1624ffe9eed5f4, type: 3}
+  - {fileID: 2800000, guid: f81c69cfc36d0244cbc2cbec6f3889c4, type: 3}
+  - {fileID: 2800000, guid: d260bb1da13984a4881f25517c698f1e, type: 3}
+  - {fileID: 2800000, guid: e7d43524c2324d641b92d94e910d1682, type: 3}
+  - {fileID: 2800000, guid: 90fada6160f24d044958ccecf2f26464, type: 3}
+  - {fileID: 2800000, guid: 0e8890b6e7eb8c643bef481550e401e2, type: 3}
+  - {fileID: 2800000, guid: 1507f83494aaeac4bbd6805226c895dd, type: 3}
+  - {fileID: 2800000, guid: ae24bb064abf8d34bb55a2b2493d969e, type: 3}
+  - {fileID: 2800000, guid: eb4d07890907c9441b1cd0caecded895, type: 3}
+  - {fileID: 2800000, guid: 028f4678a5d8f42498e65d8bfe096fe1, type: 3}
+  - {fileID: 2800000, guid: 25541112353fe4b47aca55d77fba3a3a, type: 3}
+  - {fileID: 2800000, guid: d0412eee37a77164fb127bf77f63e5a0, type: 3}
+  - {fileID: 2800000, guid: c0182ba9442e31b45901f0e4362601e6, type: 3}
+  - {fileID: 2800000, guid: 94373edbf35e3b24da827e7faa4efaa3, type: 3}
+  - {fileID: 2800000, guid: bea484c4195f9364297eec9d6a47ba4c, type: 3}
+  - {fileID: 2800000, guid: 0e2687cea2dc648428b2bfbd2405260a, type: 3}
+  - {fileID: 2800000, guid: 3d394dbbdfcd9fe43a7f6a973bdc1888, type: 3}
+  - {fileID: 2800000, guid: 1cadebc18527f724ab058ff930ce4df3, type: 3}
+  - {fileID: 2800000, guid: 01c94fe2678a5d5408e0da74a395240e, type: 3}
+  - {fileID: 2800000, guid: d03eef1292161ec418147c8f50709989, type: 3}
+  tileTextures: []
+  specialTextures: []
+  colorConditions:
+  - Below: 10
+    Color: {r: 0.9339623, g: 0.1546119, b: 0, a: 1}
+  - Below: 20
+    Color: {r: 1, g: 0.86356515, b: 0.1462264, a: 1}
+  - Below: 30
+    Color: {r: 0.93333334, g: 0, b: 0.74558806, a: 1}
+  - Below: 40
+    Color: {r: 0, g: 0.3789366, b: 0.93333334, a: 1}
+  - Below: 50
+    Color: {r: 0, g: 0.93333334, b: 0.90619653, a: 1}
+  - Below: 60
+    Color: {r: 0, g: 0.93333334, b: 0.39268568, a: 1}
+  - Below: 70
+    Color: {r: 0.5016983, g: 0.93333334, b: 0, a: 1}
+  - Below: 80
+    Color: {r: 0.93333334, g: 0.9092727, b: 0, a: 1}
+  - Below: 90
+    Color: {r: 0.29814878, g: 0.721925, b: 0.9433962, a: 1}
+  - Below: 100
+    Color: {r: 1, g: 0.5801887, b: 0.93974835, a: 1}
+  colors:
+  - {r: 0, g: 0.70046186, b: 1, a: 1}
+  - {r: 1, g: 0.6066679, b: 0, a: 1}
+  - {r: 0.9811321, g: 0.1610537, b: 0.69169277, a: 1}
+  - {r: 1, g: 0.56037736, b: 0.6969591, a: 1}
+  - {r: 1, g: 0, b: 0.20238113, a: 1}
+  - {r: 0.5562258, g: 0, b: 1, a: 1}
+  - {r: 0.18935564, g: 0.509434, b: 0.35099563, a: 1}
+  - {r: 0.24510501, g: 0.8018868, b: 0.47578818, a: 1}
+  - {r: 0.754717, g: 0.38732645, b: 0.59755147, a: 1}
+  - {r: 0.32253292, g: 0.990566, b: 0.12522247, a: 1}
+  - {r: 0.3550279, g: 0.21867208, b: 0.990566, a: 1}
+  - {r: 0.99215686, g: 0.6879436, b: 0.21960784, a: 1}
+  - {r: 0.8772446, g: 0.3924528, b: 0.9811321, a: 1}
+  - {r: 0.99215686, g: 0.93228596, b: 0.21960784, a: 1}
+  - {r: 0, g: 0.7019608, b: 1, a: 1}
+  - {r: 1, g: 0.60784316, b: 0, a: 1}
+  - {r: 0.9803922, g: 0.16078432, b: 0.6901961, a: 1}
+  - {r: 1, g: 0.56078434, b: 0.69803923, a: 1}
+  - {r: 1, g: 0, b: 0.20392159, a: 1}
+  - {r: 0.5568628, g: 0, b: 1, a: 1}
+  - {r: 0.18823531, g: 0.50980395, b: 0.3529412, a: 1}
+  - {r: 0.24705884, g: 0.8000001, b: 0.47450984, a: 1}
+  - {r: 0.75294125, g: 0.38823533, b: 0.59607846, a: 1}
+  - {r: 0.32156864, g: 0.9921569, b: 0.1254902, a: 1}
+  blankColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
